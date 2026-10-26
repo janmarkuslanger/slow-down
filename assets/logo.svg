@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="slow down logo: smug face with one raised eyebrow, steam from the nose">
+  <circle cx="256" cy="256" r="232" fill="#DBB040"/>
+  <circle cx="248" cy="244" r="222" fill="#FFCD4A"/>
+  <ellipse cx="186" cy="250" rx="22" ry="26" fill="#5B3A16"/>
+  <ellipse cx="342" cy="246" rx="22" ry="26" fill="#5B3A16"/>
+  <path d="M150 206 L222 206 L222 242 L150 242 Z" fill="#FFCD4A"/>
+  <path d="M306 202 L376 202 L376 236 L306 236 Z" fill="#FFCD4A"/>
+  <g fill="none" stroke="#5B3A16" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 184 Q 174 176 222 198"/>
+    <path d="M296 172 Q 338 124 392 144"/>
+  </g>
+  <g fill="none" stroke="#5B3A16" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M148 242 L224 242"/>
+    <path d="M304 236 L376 236"/>
+    <path d="M204 404 Q 262 416 310 384"/>
+  </g>
+  <ellipse cx="243" cy="302" rx="7" ry="10" fill="#5B3A16"/>
+  <ellipse cx="269" cy="302" rx="7" ry="10" fill="#5B3A16"/>
+  <g fill="#DDD5C8">
+    <circle cx="214" cy="324" r="14"/><circle cx="186" cy="336" r="22"/><circle cx="148" cy="350" r="28"/><circle cx="110" cy="340" r="20"/>
+    <circle cx="298" cy="324" r="14"/><circle cx="326" cy="336" r="22"/><circle cx="364" cy="350" r="28"/><circle cx="402" cy="340" r="20"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="214" cy="318" r="14"/><circle cx="186" cy="330" r="22"/><circle cx="148" cy="344" r="28"/><circle cx="110" cy="334" r="20"/>
+    <circle cx="298" cy="318" r="14"/><circle cx="326" cy="330" r="22"/><circle cx="364" cy="344" r="28"/><circle cx="402" cy="334" r="20"/>
+  </g>
+</svg>

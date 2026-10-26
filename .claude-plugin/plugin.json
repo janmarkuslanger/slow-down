@@ -1,0 +1,23 @@
+{
+  "name": "slow-down",
+  "displayName": "slow down",
+  "version": "0.1.0",
+  "description": "Keeps the engineer in the architect seat: Claude implements, you decide. Holds back architecture decisions until you make them, runs short design-defense checkpoints and keeps a decision log.",
+  "author": {
+    "name": "janmarkuslanger",
+    "url": "https://github.com/janmarkuslanger"
+  },
+  "homepage": "https://github.com/janmarkuslanger/slow-down",
+  "repository": "https://github.com/janmarkuslanger/slow-down",
+  "license": "MIT",
+  "keywords": ["architecture", "human-in-the-loop", "design-review", "decision-log", "learning"],
+  "userConfig": {
+    "intensity": {
+      "type": "string",
+      "title": "Intensity",
+      "description": "light: only dependencies, schema and infra, checkpoint every ~400 changed lines. normal: all signals, every ~150 lines. deep: all signals, every ~50 lines.",
+      "options": ["light", "normal", "deep"],
+      "default": "normal"
+    }
+  }
+}

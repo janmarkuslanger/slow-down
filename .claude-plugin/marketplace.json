@@ -1,0 +1,17 @@
+{
+  "name": "janmarkuslanger",
+  "owner": {
+    "name": "janmarkuslanger",
+    "url": "https://github.com/janmarkuslanger"
+  },
+  "description": "Claude Code plugins by janmarkuslanger",
+  "plugins": [
+    {
+      "name": "slow-down",
+      "source": "./",
+      "description": "Keeps the engineer in the architect seat: Claude implements, you decide.",
+      "category": "workflow",
+      "tags": ["architecture", "human-in-the-loop", "design-review"]
+    }
+  ]
+}
